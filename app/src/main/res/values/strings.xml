@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AlcChallenge</string>
+    <string name="connection">Not yet connected to the internet....</string>
+    <string name="username">Username</string>
+    <string name="githublink">Github Profile URL</string>
+</resources>
